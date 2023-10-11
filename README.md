@@ -41,3 +41,7 @@ http {
 ```
 
 go to url/hello_world
+![image](https://github.com/bnchdan/ngx_http_hello_world/assets/30780133/4203c7b4-5b8a-42f1-870b-54a5823cd596)
+
+
+![image](https://github.com/bnchdan/ngx_http_hello_world/assets/30780133/3a26b56f-6a7d-4a21-a2f5-85faee5a5211)
