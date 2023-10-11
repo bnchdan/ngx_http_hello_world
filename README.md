@@ -1,6 +1,6 @@
 # ngx_http_hello_world
 
-Simple example on how to implement a nginx C module to obtain: Method, IP, User-Agent, Cookies and Post/Get Variable
+Simple example on how to implement a nginx C module to obtain: Method, IP, User-Agent, Cookies, and Post/Get Variables
 
 # Install
 
